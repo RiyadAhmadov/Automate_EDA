@@ -1,4 +1,7 @@
-# Automate_EDA
+# Automate EDA
+
+![Automate EDA]("https://i.ytimg.com/vi/6rOB_DvfzOw/maxresdefault.jpg")
+
  Libraries Automate Exploratory Data Analysis
   
  Exploratory Data Analysis (EDA) is a crucial step in the data analysis process, as it helps us understand the underlying patterns, relationships, and potential issues within a dataset. Python offers several libraries that can automate and streamline the EDA process. In this blog, we will explore four important Python libraries for automating EDA: dtale, pandas-profiling, sweetviz, and autoviz.
