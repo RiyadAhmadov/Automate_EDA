@@ -1,6 +1,6 @@
 # Automate EDA
 
-![Automate EDA]("https://i.ytimg.com/vi/6rOB_DvfzOw/maxresdefault.jpg")
+![Automate EDA](https://i.ytimg.com/vi/6rOB_DvfzOw/maxresdefault.jpg)
 
  Libraries Automate Exploratory Data Analysis
   
